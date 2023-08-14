@@ -2,4 +2,7 @@
 
 >Status do projeto: Em desenvolvimento
 
-Para colocar trechos de código ou comando de console use ```Este formato!```
+Para rodar este projeto na sua máquina, utilize:
+```
+node app.js
+```
